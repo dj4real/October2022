@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="31.084">
-    <testcase classname="newtours" name="Register by entering only User Information" time="8.366">
+<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="25.698">
+    <testcase classname="newtours" name="Register by entering only User Information" time="9.073">
         <failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError"><![CDATA[Given I am on the Newtours Home page........................................passed
 When I click on the Register link...........................................passed
 And I enter "Jose", password and confirm as "password120"...................passed
@@ -14,10 +14,10 @@ Expected: <true>
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
 	at stepDef.NewtoursStepDef.confirmation_page_is_displayed_with_my(NewtoursStepDef.java:85)
-	at ✽.confirmation page is displayed with my "Jose"(file:///C:/Users/Oladeji/Downloads/Software%20Testing/Automation/september2022/src/main/resources/feature_files/Newtours.feature:19)
+	at ✽.confirmation page is displayed with my "Jose"(file:///C:/Project/september2022/src/main/resources/feature_files/Newtours.feature:19)
 ]]></failure>
     </testcase>
-    <testcase classname="newtours" name="Register by entering only User Information 2" time="6.642">
+    <testcase classname="newtours" name="Register by entering only User Information 2" time="5.568">
         <failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError"><![CDATA[Given I am on the Newtours Home page........................................passed
 When I click on the Register link...........................................passed
 And I enter "Late", password and confirm as "password2200"..................passed
@@ -31,10 +31,10 @@ Expected: <true>
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
 	at stepDef.NewtoursStepDef.confirmation_page_is_displayed_with_my(NewtoursStepDef.java:85)
-	at ✽.confirmation page is displayed with my "Late"(file:///C:/Users/Oladeji/Downloads/Software%20Testing/Automation/september2022/src/main/resources/feature_files/Newtours.feature:19)
+	at ✽.confirmation page is displayed with my "Late"(file:///C:/Project/september2022/src/main/resources/feature_files/Newtours.feature:19)
 ]]></failure>
     </testcase>
-    <testcase classname="newtours" name="Register by entering only User Information 3" time="7.924">
+    <testcase classname="newtours" name="Register by entering only User Information 3" time="5.598">
         <failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError"><![CDATA[Given I am on the Newtours Home page........................................passed
 When I click on the Register link...........................................passed
 And I enter "Pause", password and confirm as "2929swo983920"................passed
@@ -48,10 +48,10 @@ Expected: <true>
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
 	at stepDef.NewtoursStepDef.confirmation_page_is_displayed_with_my(NewtoursStepDef.java:85)
-	at ✽.confirmation page is displayed with my "Pause"(file:///C:/Users/Oladeji/Downloads/Software%20Testing/Automation/september2022/src/main/resources/feature_files/Newtours.feature:19)
+	at ✽.confirmation page is displayed with my "Pause"(file:///C:/Project/september2022/src/main/resources/feature_files/Newtours.feature:19)
 ]]></failure>
     </testcase>
-    <testcase classname="newtours" name="Register by entering only User Information 4" time="7.792">
+    <testcase classname="newtours" name="Register by entering only User Information 4" time="5.112">
         <failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError"><![CDATA[Given I am on the Newtours Home page........................................passed
 When I click on the Register link...........................................passed
 And I enter "Andy", password and confirm as "WORDword120"...................passed
@@ -65,7 +65,7 @@ Expected: <true>
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
 	at stepDef.NewtoursStepDef.confirmation_page_is_displayed_with_my(NewtoursStepDef.java:85)
-	at ✽.confirmation page is displayed with my "Andy"(file:///C:/Users/Oladeji/Downloads/Software%20Testing/Automation/september2022/src/main/resources/feature_files/Newtours.feature:19)
+	at ✽.confirmation page is displayed with my "Andy"(file:///C:/Project/september2022/src/main/resources/feature_files/Newtours.feature:19)
 ]]></failure>
     </testcase>
 </testsuite>
